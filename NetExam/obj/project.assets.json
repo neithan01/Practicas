@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santi\\Downloads\\Nueva carpeta (3)\\NetExam\\NetExam.csproj",
+      "projectUniqueName": "C:\\Repos\\Ejercicio\\NetExam\\NetExam.csproj",
       "projectName": "NetExam",
-      "projectPath": "C:\\Users\\santi\\Downloads\\Nueva carpeta (3)\\NetExam\\NetExam.csproj",
+      "projectPath": "C:\\Repos\\Ejercicio\\NetExam\\NetExam.csproj",
       "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santi\\Downloads\\Nueva carpeta (3)\\NetExam\\obj\\",
+      "outputPath": "C:\\Repos\\Ejercicio\\NetExam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",

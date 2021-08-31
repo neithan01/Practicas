@@ -1,10 +1,7 @@
-﻿using NetExam.Abstractions;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace NetExam.Dto
+﻿namespace NetExam.Dao.Dto
 {
+    using NetExam.Abstractions;
+
     public class Office : IOffice
     {
         public string LocationName { get; set; }

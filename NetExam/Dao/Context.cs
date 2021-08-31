@@ -1,11 +1,8 @@
-﻿using NetExam.Abstractions;
-using NetExam.Dto;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace NetExam
+﻿namespace NetExam
 {
+    using NetExam.Dao.Dto;
+    using System.Collections.Generic;
+
     public sealed class Context
     {
         public List<LocationSpecs> locations { get; set; }

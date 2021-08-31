@@ -7,3 +7,12 @@ C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\obj\Debug\netstandard2.0\NetE
 C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.CoreCompileInputs.cache
 C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\obj\Debug\netstandard2.0\NetExam.dll
 C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\obj\Debug\netstandard2.0\NetExam.pdb
+C:\Repos\Ejercicio\NetExam\bin\Debug\netstandard2.0\NetExam.deps.json
+C:\Repos\Ejercicio\NetExam\bin\Debug\netstandard2.0\NetExam.dll
+C:\Repos\Ejercicio\NetExam\bin\Debug\netstandard2.0\NetExam.pdb
+C:\Repos\Ejercicio\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.AssemblyReference.cache
+C:\Repos\Ejercicio\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfoInputs.cache
+C:\Repos\Ejercicio\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfo.cs
+C:\Repos\Ejercicio\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.CoreCompileInputs.cache
+C:\Repos\Ejercicio\NetExam\obj\Debug\netstandard2.0\NetExam.dll
+C:\Repos\Ejercicio\NetExam\obj\Debug\netstandard2.0\NetExam.pdb

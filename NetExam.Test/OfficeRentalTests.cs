@@ -3,7 +3,7 @@
     using System;
     using System.Linq;
     using NetExam.Abstractions;
-    using NetExam.Dto;
+    using NetExam.Dao.Dto;
     using Xunit;
 
     public class OfficeRentalTests

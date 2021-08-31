@@ -1,7 +1,7 @@
 ﻿namespace NetExam.Abstractions
 {
     using System.Collections.Generic;
-    using NetExam.Dto;
+    using NetExam.Dao.Dto;
 
     public interface IOfficeRental
     {

@@ -1,6 +1,5 @@
-﻿namespace NetExam.Dto
+﻿namespace NetExam.Dao.Dto
 {
-    using NetExam.Abstractions;
     using System;
     using System.Collections.Generic;
 
