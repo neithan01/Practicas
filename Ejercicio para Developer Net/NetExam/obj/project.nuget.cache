@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9riy2eOtptL6ozYI1GdYz3KMb1jleH74twxfHmGf0s5/h7YuOYaNDuSsRy7btX7qR0jIOlXUJAUpcNLczZNDZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Scave\\Downloads\\Ejercicio para Developer Net\\NetExam\\NetExam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Scave\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Scave\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

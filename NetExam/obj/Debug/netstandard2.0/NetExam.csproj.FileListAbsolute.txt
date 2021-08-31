@@ -1,0 +1,9 @@
+C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\bin\Debug\netstandard2.0\NetExam.deps.json
+C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\bin\Debug\netstandard2.0\NetExam.dll
+C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\bin\Debug\netstandard2.0\NetExam.pdb
+C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.AssemblyReference.cache
+C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfoInputs.cache
+C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfo.cs
+C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.CoreCompileInputs.cache
+C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\obj\Debug\netstandard2.0\NetExam.dll
+C:\Users\santi\Downloads\Nueva carpeta (3)\NetExam\obj\Debug\netstandard2.0\NetExam.pdb
